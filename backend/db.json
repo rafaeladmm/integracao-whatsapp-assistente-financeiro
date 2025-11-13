@@ -1,0 +1,32 @@
+{
+  "gastos": [
+    {
+      "id": 1763038061992,
+      "data": "2025-11-13T12:47:41.992Z",
+      "valor": 6,
+      "descricao": "em pastel",
+      "from": "whatsapp:+555381196152"
+    },
+    {
+      "id": 1763035925413,
+      "data": "2025-11-13T12:12:05.413Z",
+      "valor": 12,
+      "descricao": "em uma coca",
+      "from": "whatsapp:+555381196152"
+    },
+    {
+      "id": 1763010205939,
+      "data": "2025-11-13T05:03:25.939Z",
+      "valor": 7.5,
+      "descricao": "no pão de batata",
+      "from": "whatsapp:+555381196152"
+    },
+    {
+      "id": 1762997507123,
+      "data": "2025-11-13T01:31:47.123Z",
+      "valor": 30,
+      "descricao": "reais na steam",
+      "from": "whatsapp:+555381196152"
+    }
+  ]
+}
